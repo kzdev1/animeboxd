@@ -1,2 +1,42 @@
-
+@font-face {
+    font-family: "fontletterboxd(1)";
+    src: url('Acumin-BdItPro.otf') format('opentype');
+}
+html{
+    overflow-x: hidden;
+}
     
+body{
+    color: #9ab;
+    background-color: #2c3440;
+        
+}
+
+
+.imgtopanime{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.imgtopanime img{
+    width: 15%;
+    border-radius: 2%;
+    height: 15%;
+    margin: 20px;
+    
+}
+
+
+.imgmelhores{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.imgmelhores img{
+    width: 15%;
+    border-radius: 2%;
+    height: 15%;
+    margin: 20px;
+    
+}
+
+
+
