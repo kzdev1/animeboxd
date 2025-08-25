@@ -6,7 +6,7 @@
 ##Demonstração:câmera
 ![Inspiração](assets/printletterboxd.PNG)
 
----gi
+---
 
 ##⚙️Tecnologias
 -HTML
