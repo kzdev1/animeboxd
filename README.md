@@ -3,7 +3,7 @@
 
 ##Inspirado no site letterboxd!!!
 
-##Demonstração:câmera
+##Demonstração📷
 ![Inspiração](assets/printletterboxd.PNG)
 
 ---
