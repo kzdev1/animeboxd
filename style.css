@@ -12,31 +12,41 @@ body{
         
 }
 
+.intro{
+    margin-left: 15%;
+    
+}
+
 
 .imgtopanime{
-    margin-left: 150px;
-    margin-right: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
 }
 .imgtopanime img{
-    width: 15%;
+    width: 11%;
     border-radius: 2%;
-    height: 15%;
-    margin: 20px;
+    height: 11%;
+    margin: 5px;
+
     
 }
 
 
 .imgmelhores{
-    margin-left: 150px;
-    margin-right: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .imgmelhores img{
-    width: 15%;
+    width: 11%;
     border-radius: 2%;
-    height: 15%;
-    margin: 20px;
+    height: 11%;
+    margin: 5px;
+
     
 }
-
-
 
