@@ -1,14 +1,27 @@
 @font-face {
     font-family: "fontletterboxd(1)";
     src: url('Acumin-BdItPro.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 html{
     overflow-x: hidden;
 }
+
+.logo{
+    max-width: 300px;
     
+}
+.menu{
+    display: flex;
+    
+}
+
+
 body{
     color: #9ab;
     background-color: #2c3440;
+    
         
 }
 
@@ -31,7 +44,6 @@ body{
     border-radius: 2%;
     height: 11%;
     margin: 5px;
-
     
 }
 
